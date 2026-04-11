@@ -129,19 +129,6 @@ The Power BI dashboard includes:
 
 This project demonstrates how SQL and Power BI can be used together to transform raw data into meaningful insights. It highlights key global economic trends and provides an interactive way to explore them.
 
-📷 Dashboard Preview
-
-(Add a screenshot of your Power BI dashboard here)
-
-🔗 How to Use
-
-Import the dataset into SQL Server
-
-Run the SQL query provided
-
-Connect Power BI to SQL Server
-
-Build visuals using the cleaned dataset
 
 🙌 Author
 
